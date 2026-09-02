@@ -1,5 +1,41 @@
 [
   {
+    "title": "Lovesick",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/lovesick-series-7950/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "The Runner",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/the-runner-movie-7949/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "Reacher",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/reacher-series-655/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
     "title": "Filing for Love",
     "provider": "fourkhd",
     "image": "https://image.tmdb.org/t/p/w500/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
@@ -9,7 +45,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "Lanterns",
@@ -21,7 +57,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
@@ -33,7 +69,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "The Whisper Man",
@@ -45,7 +81,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "Mousetrap",
@@ -57,7 +93,43 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "Turning Point: Generation 9/11",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/turning-point-generation-911-movie-7951/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "Women in Blue",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/9CHpaYUqgFM81e0emaWkfyFyche.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/women-in-blue-series-7765/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "Ted Lasso",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/ted-lasso-series-6878/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "All the Truth In My Lies",
@@ -69,7 +141,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "Grand Theft Auto VI: An Extended Look",
@@ -81,7 +153,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "The Wedding Banquet",
@@ -93,139 +165,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "A Killer Paradox",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/i2yYZGT2If8XcCZS9ASF1g13MiT.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/a-killer-paradox-series-3880/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "Final Project",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/final-project-series-7946/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "In the Eye of the Storm: Chasers",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/3TXfT52hKDXbGdDlhCGjif0yh1.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/in-the-eye-of-the-storm-chasers-series-7945/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "The Bridge on the River Kwai",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/the-bridge-on-the-river-kwai-movie-7941/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "Grand Blue Dreaming",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/grand-blue-dreaming-series-2809/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "Margin Call",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/qtO57obCJuUBS0en3HLgFgZ19Xk.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/margin-call-movie-7922/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "The Nightfall",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/xPieajOLJQKllSDEUr6ZPrYAq7M.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/the-nightfall-series-7560/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "Badland",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/217ddlMrnXll436baw7y5ERmz3x.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/badland-movie-7938/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "WWE Raw",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/original/g4gISgVBm5iEfGEZJnMzJGsxdsy.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/wwe-raw-series-386/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "Just Play Dead",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/wG0KDlzuUWE1KHaeJZcGdrJdZea.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/just-play-dead-movie-7939/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:44 UTC"
-  },
-  {
-    "title": "The Orphans",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/the-orphans-movie-5796/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
   },
   {
     "title": "My Bias, My Boss",
@@ -237,7 +177,139 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "He's Into Her",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/2RNPGUoJswBRrZmPxXxmzvvBH5r.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/hes-into-her-series-7948/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "Backrooms",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/backrooms-movie-7787/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "Kangaroo",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/cg7gDoDyxEEaQyo7kZbP7fi0jjp.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/kangaroo-movie-7947/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:58 UTC"
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/the-bridge-on-the-river-kwai-movie-7941/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
+  },
+  {
+    "title": "Grand Blue Dreaming",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/grand-blue-dreaming-series-2809/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
+  },
+  {
+    "title": "Margin Call",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/qtO57obCJuUBS0en3HLgFgZ19Xk.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/margin-call-movie-7922/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
+  },
+  {
+    "title": "The Nightfall",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/xPieajOLJQKllSDEUr6ZPrYAq7M.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/the-nightfall-series-7560/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
+  },
+  {
+    "title": "Badland",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/217ddlMrnXll436baw7y5ERmz3x.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/badland-movie-7938/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
+  },
+  {
+    "title": "WWE Raw",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/original/g4gISgVBm5iEfGEZJnMzJGsxdsy.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/wwe-raw-series-386/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
+  },
+  {
+    "title": "Just Play Dead",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/wG0KDlzuUWE1KHaeJZcGdrJdZea.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/just-play-dead-movie-7939/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
+  },
+  {
+    "title": "The Orphans",
+    "provider": "fourkhd",
+    "image": "https://image.tmdb.org/t/p/w500/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg",
+    "resolution": "Standard HD",
+    "category": "Movie",
+    "post_url": "/the-orphans-movie-5796/",
+    "episodes": [],
+    "download_links": [],
+    "mkv_links": [],
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "The Wrong Girls",
@@ -249,7 +321,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "Confinement",
@@ -261,7 +333,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "I Want Your Sex",
@@ -273,7 +345,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "Redakai",
@@ -285,7 +357,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "President Curtis",
@@ -297,7 +369,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "Clean with Passion for Now",
@@ -309,7 +381,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "Tom and Jerry: Shiver Me Whiskers",
@@ -321,7 +393,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "Tom and Jerry: The Lost Dragon",
@@ -333,7 +405,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "Scooby-Doo! & Batman: The Brave and the Bold",
@@ -345,7 +417,7 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   },
   {
     "title": "Scooby-Doo! The Sword and the Scoob",
@@ -357,78 +429,6 @@
     "episodes": [],
     "download_links": [],
     "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
-  },
-  {
-    "title": "Happy Halloween, Scooby-Doo!",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/ojSrGq5qIBObrodYilJQPXSYv6r.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/happy-halloween-scooby-doo-movie-7928/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
-  },
-  {
-    "title": "Scooby-Doo! and the Gourmet Ghost",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/AtHngeqD4K1Oj01ulWc1aDJhU8H.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/scooby-doo-and-the-gourmet-ghost-movie-7927/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
-  },
-  {
-    "title": "Beauty in Black",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/beauty-in-black-series-3432/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
-  },
-  {
-    "title": "Leanne",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/XDT5vW42GtW1wKT93EiLClHihw.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/leanne-series-2750/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
-  },
-  {
-    "title": "The Last Sunrise",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/the-last-sunrise-movie-7863/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
-  },
-  {
-    "title": "Where Hope Grows",
-    "provider": "fourkhd",
-    "image": "https://image.tmdb.org/t/p/w500/gQmOsU2hA0PrGvxGjzty1S2OO3H.jpg",
-    "resolution": "Standard HD",
-    "category": "Movie",
-    "post_url": "/where-hope-grows-movie-7925/",
-    "episodes": [],
-    "download_links": [],
-    "mkv_links": [],
-    "last_updated": "2026-09-02 03:44:45 UTC"
+    "last_updated": "2026-09-02 08:36:59 UTC"
   }
 ]
