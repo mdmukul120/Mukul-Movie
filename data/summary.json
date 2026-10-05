@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-05 07:32:24 UTC",
-  "total_items": 1233,
+  "last_updated": "2026-10-05 16:57:43 UTC",
+  "total_items": 0,
   "providers_stat": {
-    "moviesmod": 42,
-    "topmovies": 40,
-    "uhd": 24,
-    "moviesdrive": 51,
+    "moviesmod": 0,
+    "topmovies": 0,
+    "uhd": 0,
+    "moviesdrive": 0,
     "fourkhd": 0,
-    "hdhub4u": 90,
+    "hdhub4u": 0,
     "filmyfly": 0,
     "kat": 0,
     "showbox": 0,
-    "castle": 986,
+    "castle": 0,
     "allmovieland": 0
   }
 }
