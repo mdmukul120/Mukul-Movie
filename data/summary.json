@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12 02:23:55 UTC",
-  "total_items": 1161,
+  "last_updated": "2026-11-12 10:06:57 UTC",
+  "total_items": 1200,
   "providers_stat": {
-    "moviesmod": 0,
+    "moviesmod": 40,
     "topmovies": 0,
     "uhd": 24,
     "moviesdrive": 49,
@@ -11,7 +11,7 @@
     "filmyfly": 0,
     "kat": 24,
     "showbox": 0,
-    "castle": 979,
+    "castle": 978,
     "allmovieland": 0
   }
 }
